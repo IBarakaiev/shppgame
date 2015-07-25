@@ -1,0 +1,15 @@
+Binaries/
+
+Derived/
+Data/
+Cache/
+
+Intermediate
+/
+Saved/
+
+*.sdf
+
+*.sln
+
+*.suo
