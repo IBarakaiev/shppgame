@@ -1,15 +1,9 @@
 Binaries/
-
 Derived/
 Data/
 Cache/
-
-Intermediate
-/
+Intermediate/
 Saved/
-
 *.sdf
-
 *.sln
-
 *.suo
